@@ -3,7 +3,7 @@
 ## Aspiring Software Developer & Data Science Enthusiast
 
 <div align="right">
-  <img src="https://github.com/12fahed/12fahed/blob/main/Final.png" alt="coding" align="right" />
+  <img src="https://github.com/Vedant-Borkar/Vedant-Borkar/blob/main/Final.png" alt="coding" align="right" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedant-Borkar&color=blue)
