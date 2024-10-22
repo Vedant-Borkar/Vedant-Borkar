@@ -12,7 +12,7 @@
 - 💡 Ask me about **Web Development, Data Science, and Machine Learning**
 - 🌟 I'm looking to collaborate with people with similar interest
 - ⚡ Fun fact: I enjoy watching Football. I love to work out and go for swim in my free time!!
-- 🖥️ I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode and watching football!
+- 🖥️ I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode
 - 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
 
 ### Connect with me:
