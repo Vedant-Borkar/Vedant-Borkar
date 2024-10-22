@@ -16,7 +16,7 @@
 - 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/vedant-v-borkar)
+<a href="www.linkedin.com/in/vedant-v-borkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-upadhyay-26397a224" height="30" width="40" /></a>
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />](https://github.com/VedantBorkar)
 [<img align="left" alt="CodeForces" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />](https://codeforces.com/profile/Vedant_Borkar)
 [<img align="left" alt="LeetCode" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/Vedant_Borkar)
@@ -56,11 +56,11 @@ HTML/CSS     8.9%
 ```
 
 ### Vedant Borkar's GitHub Stats:
-📊 Total Stars Earned: 15  
-🕒 Total Commits (2024): 250+  
+📊 Total Stars Earned: 19  
+🕒 Total Commits (all time): 350+  
 🔀 Total PRs: 20+  
 ❗ Total Issues: 5  
-🤝 Contributed to (last year): 8
+🤝 Contributed to (all time): 8
 
 ---
 
