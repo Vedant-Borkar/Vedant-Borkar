@@ -8,10 +8,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedant-Borkar&color=blue)
 
-- 🎯 I'm currently working on **Python & Machine Learning Projects**
+- 🎯 I'm currently working on **Machine Learning Projects**
 - 💡 Ask me about **Web Development, Data Science, and Machine Learning**
 - 🌟 I'm looking to collaborate with people with similar interest
-- ⚡ Fun fact: I enjoy solving DSA problems on LeetCode and playing snooker!
+- ⚡ Fun fact: I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode and watching football!
 - 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
 
 ### Connect with me:
