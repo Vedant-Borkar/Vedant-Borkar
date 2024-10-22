@@ -49,7 +49,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Cloud Services:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### DNS Management & Hosting:
@@ -67,9 +67,9 @@
 
 ### Most Used Languages:
 ```text
-Python       40.5%
+Java         40.5%
 JavaScript   25.3%
-Java         15.2%
+Python       15.2%
 C++          10.1%
 HTML/CSS     8.9%
 ```
