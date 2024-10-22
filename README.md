@@ -13,7 +13,7 @@
 - 🌟 I'm looking to collaborate with people with similar interest
 - ⚡ Fun fact: I enjoy watching Football. I love to work out and go for swim in my free time!!
 - 🖥️ I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode
-- 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vedant-v-borkar)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/vedant-v-borkar)
