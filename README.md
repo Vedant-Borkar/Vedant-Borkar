@@ -16,8 +16,7 @@
 - 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
 
 ### Connect with me:
-<a href="www.linkedin.com/in/vedant-v-borkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-upadhyay-26397a224" height="30" width="40" /></a>
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />](https://github.com/VedantBorkar)
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/vedant-v-borkar)
 [<img align="left" alt="CodeForces" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />](https://codeforces.com/profile/Vedant_Borkar)
 [<img align="left" alt="LeetCode" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/Vedant_Borkar)
 [<img align="left" alt="HackerRank" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/profile/vedant_v_borkar)
@@ -64,8 +63,8 @@ HTML/CSS     8.9%
 
 ---
 
-<div align="left">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-Borkar&show_icons=true&theme=radical) <p>  </p> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Borkar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-Borkar&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Borkar&layout=compact&theme=radical)
 
 </div>
