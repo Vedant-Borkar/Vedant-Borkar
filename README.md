@@ -11,15 +11,19 @@
 - 🎯 I'm currently working on **Machine Learning Projects**
 - 💡 Ask me about **Web Development, Data Science, and Machine Learning**
 - 🌟 I'm looking to collaborate with people with similar interest
-- ⚡ Fun fact: I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode and watching football!
+- ⚡ Fun fact: I enjoy watching Football. I love to work out and go for swim in my free time!!
+- 🖥️ I enjoy participating in Competitive programming contests on Codeforces & solving DSA problems on LeetCode and watching football!
 - 📫 How to reach me: [vedant.v.borkar@gmail.com](mailto:vedant.v.borkar@gmail.com)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-v-borkar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedant-Borkar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vedant_Borkar)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Vedant_Borkar)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]((https://www.hackerrank.com/profile/vedant_v_borkar))
+[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/Vedant_Borkar)
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/vedant-v-borkar)
+[<img align="left" alt="LeetCode" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/Vedant_Borkar)
+[<img align="left" alt="CodeForces" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" />](https://codeforces.com/profile/Vedant_Borkar)
+[<img align="left" alt="HackerRank" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/profile/vedant_v_borkar)
+
+<br />
+<br />
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
