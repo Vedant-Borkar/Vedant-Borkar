@@ -64,7 +64,7 @@ HTML/CSS     8.9%
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-Borkar&show_icons=true&theme=radical)
 
