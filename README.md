@@ -75,7 +75,7 @@ HTML/CSS     8.9%
 ```
 
 ### Vedant Borkar's GitHub Stats(All Time):
-📊 Total Stars Earned: 19  
+📊 Total Stars Earned: 35+  
 🕒 Total Commits: 350+  
 🔀 Total PRs: 20+  
 ❗ Total Issues: 5  
