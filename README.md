@@ -66,8 +66,6 @@ HTML/CSS     8.9%
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-Borkar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Borkar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-Borkar&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Borkar&layout=compact&theme=radical)
 
 </div>
