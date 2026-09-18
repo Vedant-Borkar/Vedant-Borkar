@@ -8,7 +8,7 @@ Software Developer & Data Science Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedant-Borkar&color=blue)
 
-- 🖥️ Sadly my commits and GitHub contributions might look dry lately coz I've been busy writing code that actually sells :)
+- 🖥️ My GitHub contributions might look dry lately coz I've been busy writing code that actually sells :)
 - 🎯 I'm currently working on **Machine Learning Projects**
 - 💡 Ask me about **Web Development, Data Science, and Machine Learning**
 - 🌟 I'm looking to collaborate with people with similar interest
